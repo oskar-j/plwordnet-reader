@@ -1,6 +1,8 @@
 # plwordnet-reader
 A python package for iterating over Polish wordnet ("Słowosieć")
 
+[![Requirements Status](https://requires.io/github/oskar-j/plwordnet-reader/requirements.svg?branch=master)](https://requires.io/github/oskar-j/plwordnet-reader/requirements/?branch=master)
+
 ## Introduction
 
 ### What is it?
