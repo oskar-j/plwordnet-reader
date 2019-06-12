@@ -12,3 +12,6 @@ class PolishWordnetDataset:
             return self.default_locations[self.version]
         else:
             return self.location
+
+    def get_version(self) -> str:
+        return self.version
