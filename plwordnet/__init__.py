@@ -1,2 +1,3 @@
 from plwordnet.plwordnet import PolishWordnet
 from plwordnet.dataset import PolishWordnetDataset
+from plwordnet.engine import PolishWordnetEngine
